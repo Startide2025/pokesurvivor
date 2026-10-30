@@ -1,7 +1,7 @@
-NOTE by Startide2025: THIS README.md has been auto-translated by Google Translate. I did not change it other than this note at the top.
-I am hosting this in pokesurvivo.netlify.app for my friends, since pokesurvivor.com is blocked by admin, and I have to do a small edit in index.html to do that.
-NO OTHER CODE WAS CHANGED. NO PROFIT IS ATTEMPTING TO BE MADE.
-I have not checked the code (it is HEAVILY obfuscated by the owner), so I don't know if anything is broken.
+NOTE by Startide2025: THIS README.md has been auto-translated by Google Translate. I did not change it other than this note at the top.  
+I am hosting this in pokesurvivo.netlify.app for my friends, since pokesurvivor.com is blocked by admin, and I have to do a small edit in index.html to do that.  
+NO OTHER CODE WAS CHANGED. NO PROFIT IS ATTEMPTING TO BE MADE.  
+I have not checked the code (it is HEAVILY obfuscated by the owner), so I don't know if anything is broken.  
 
 
 # PokéSurvivor · Mystery Dungeon
